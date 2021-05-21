@@ -1,0 +1,14 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "onchain",
+            "name": "core-token",
+            "parameters": {}
+        }
+    ],
+    "blockchain": "solana",
+    "language": "rust",
+    "framework": "vanilla"
+}
